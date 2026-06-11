@@ -1,16 +1,26 @@
-# training
+# 🌟 Flutter Mood Tracker App
 
-A new Flutter project.
+A beginner Flutter project demonstrating Stateless and Stateful widgets.
 
-## Getting Started
+## 📱 Features
+- Login Page with Username & Password fields
+- Profile Page with dynamic Mood Tracker
+- Navigation between screens
+- Real-time UI updates using setState()
 
-This project is a starting point for a Flutter application.
+## 🛠️ Tech Stack
+- Flutter & Dart
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screenshots
+-Login Page 
+<img width="1080" height="2340" alt="image" src="https://github.com/user-attachments/assets/2c95b8bc-e331-4567-a113-87e43af7bfc8" />
+-Profile Page with Happy emoji 
+<img width="1080" height="2340" alt="image" src="https://github.com/user-attachments/assets/54518b16-ffce-4257-b1df-6a3db18e04cb" />
+-Profile page with Sad emoji
+<img width="1080" height="2340" alt="image" src="https://github.com/user-attachments/assets/1d4919f9-32e2-42e2-8b52-1c68033cedf6" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧠 Concepts Learned
+- StatelessWidget vs StatefulWidget
+- setState() for dynamic UI
+- Navigator for screen navigation
+- Basic widgets: Column, Row, TextField, E
